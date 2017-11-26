@@ -19,5 +19,6 @@ For those using Seabios RW Legacy/Boot Stub, Do yourself a favour and use the UE
 
 ---
 ---
+No more compiling when 4.15 arrives (fingers crossed)
 
 ![Alt text](https://raw.githubusercontent.com/duffydack/linux-max98090/master/itshappening.gif)
