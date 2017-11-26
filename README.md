@@ -16,3 +16,8 @@ sudo pacman -Syu ; sudo pacman -S linux-max98090 linux-max98090-headers
 ```
 
 For those using Seabios RW Legacy/Boot Stub, Do yourself a favour and use the UEFI rom from https://mrchromebox.tech/#fwscript
+
+---
+---
+
+![Alt text](https://raw.githubusercontent.com/duffydack/linux-max98090/master/itshappening.gif)
